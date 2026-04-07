@@ -20,12 +20,6 @@ I am passionate about the intersection of mechanical design and intelligent cont
 
 ---
 
-### 📊 GitHub Stats
-![Idlan's Stats](https://github-readme-stats.vercel.app/api?username=IdlanZafran&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdlanZafran&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 * **LinkedIn:** [in/idlanzafran](https://www.linkedin.com/in/idlanzafran/)
 * **Email:** [lanzaidie@gmail.com]
