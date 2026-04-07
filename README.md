@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Idlan Zafran Mohd Zaidie 👋
 
-<!--
-**IdlanZafran/IdlanZafran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Mechanical Engineering Student @ Universiti Kebangsaan Malaysia (UKM)
+**Robotics Enthusiast | Embedded Systems Developer | 3D Visualizer**
 
-Here are some ideas to get you started:
+I am passionate about the intersection of mechanical design and intelligent control systems. My work focuses on creating efficient, real-world hardware solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technical Skill Set
+* **Engineering CAD:** Autodesk Inventor, Fusion 360, AutoCAD
+* **Creative Design:** 3D Animation & Rendering in **Blender**
+* **Programming:** C++ (Embedded), HTML, CSS
+* **Platforms:** Arduino, ESP32/ESP8266, Robotics Control Systems
+
+---
+
+### 🚀 Featured Library: [RapidBootWiFi](https://github.com/IdlanZafran/RapidBootWiFi)
+*A specialized Arduino library for handling rapid-boot resets and WiFi connectivity.*
+
+---
+
+### 📊 GitHub Stats
+![Idlan's Stats](https://github-readme-stats.vercel.app/api?username=IdlanZafran&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdlanZafran&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [in/idlanzafran](https://www.linkedin.com/in/idlanzafran/)
+* **Email:** [lanzaidie@gmail.com]
