@@ -43,16 +43,17 @@
 ### 🚀 Featured Open Source Libraries
 
 ### 📦 [ThingsSentral](https://github.com/IdlanZafran/ThingsSentral)
-![Status](https://img.shields.io/badge/Status-Active%20Maintenance-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Status](https://img.shields.io/badge/Status-Active%20Maintenance-blue)](https://github.com/IdlanZafran/ThingsSentral)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 * **Purpose:** Enterprise-grade telemetry library for connecting ESP8266/ESP32 devices to the ThingsSentral.io platform.
 * **Architecture:** Implements HTTP Keep-Alive connection reuse to minimize network overhead and latency.
 * **Reliable Persistence:** Features a "Vault" system for offline data buffering via LittleFS and memory-safe bulk data payloads.
 
 #### 🛜 [RapidBootWiFi](https://github.com/IdlanZafran/RapidBootWiFi)
-![Status](https://img.shields.io/badge/Status-Active%20Maintenance-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Status](https://img.shields.io/badge/Status-Active%20Maintenance-blue)](https://github.com/IdlanZafran/RapidBootWiFi)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 * **Purpose:** Lightweight hardware-management library for simplified device provisioning and recovery.
 * **Resilience:** Handles physical factory resets via 3-rapid-boot detection and non-volatile boot counting.
@@ -63,24 +64,24 @@
 ### 📂 Selected IoT Projects
 
 ### ⚡ [ESP32 Smart Energy Monitor & Relay Switch](https://github.com/IdlanZafran/esp32-smart-energy-monitor-relay)
-![Status](https://img.shields.io/badge/Status-Deployed%20%26%20Stable-brightgreen)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Status](https://img.shields.io/badge/Status-Deployed%20%26%20Stable-brightgreen)](https://github.com/IdlanZafran/esp32-smart-energy-monitor-relay)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 * **Full-Stack IoT:** Developed a localized web dashboard using **HTML, CSS, and JavaScript** hosted directly on the ESP32.
 * **Dynamic Interaction:** Leverages **JSON** endpoints for real-time sensor streaming without page refreshes.
 * **Core Engineering:** Implements precise RMS voltage and current calculations for professional power tracking.
 
 ### 🔥 [ESP8266 IoT Environment Monitor (DHT & OLED)](https://github.com/IdlanZafran/esp8266-iot-environment-monitor-dht-oled)
-![Status](https://img.shields.io/badge/Status-Deployed%20%26%20Stable-brightgreen)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Status](https://img.shields.io/badge/Status-Deployed%20%26%20Stable-brightgreen)](https://github.com/IdlanZafran/esp8266-iot-environment-monitor-dht-oled)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 * **Visual UI:** Custom SSD1306 OLED interface providing high-visibility climate data using non-blocking state machines.
 * **Connectivity:** Integrated with **ThingsSentral** for remote data logging and **RapidBootWiFi** for robust provisioning.
 * **Stability:** Optimized firmware ensures continuous sensor acquisition even during intermittent network synchronization.
 
 ### 🚨 [ESP8266 IoT Remote Buzzer Alarm](https://github.com/IdlanZafran/esp8266-iot-remote-buzzer-alarm)
-![Status](https://img.shields.io/badge/Status-Deployed%20%26%20Stable-brightgreen)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Status](https://img.shields.io/badge/Status-Deployed%20%26%20Stable-brightgreen)](https://github.com/IdlanZafran/esp8266-iot-remote-buzzer-alarm)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 * **Cloud Sync:** Synchronizes with remote server-side logic to trigger localized audible alerts via a Ticker background engine.
 * **Power Intelligence:** Custom battery monitoring logic with multi-level voltage status and critical-level hardware protection.
